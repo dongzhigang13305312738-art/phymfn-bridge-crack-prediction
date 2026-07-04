@@ -13,7 +13,11 @@ The repository is intended to host:
 
 ## Repository Status
 
-This package is prepared for proof-stage release. Public release should occur only after institutional and bridge-authority review confirms that the de-identified data contain no bridge-identifying information, sensitive location details, or operationally restricted fields.
+This package is prepared for proof-stage release at:
+
+https://github.com/dongzhigang13305312738-art/phymfn-bridge-crack-prediction
+
+The code scaffold is public. Any de-identified monitoring dataset should be released only after institutional and bridge-authority review confirms that it contains no bridge-identifying information, sensitive location details, or operationally restricted fields.
 
 ## Planned Structure
 
@@ -63,10 +67,9 @@ The current scaffold provides the public-release structure. Replace placeholder 
 
 ## Citation
 
-If you use this code or dataset, please cite the associated journal article and the repository DOI once available.
+If you use this code or dataset, please cite the associated journal article and the repository DOI once available. A Zenodo DOI should be generated from the GitHub release at the proof stage.
 
 ## Licenses
 
 - Code: MIT License, unless otherwise noted.
 - De-identified data: recommended CC BY 4.0 after institutional approval.
-
