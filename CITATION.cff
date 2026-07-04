@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software or de-identified dataset, please cite the associated journal article and repository DOI."
+title: "Phy-MFN: Physics-informed Multimodal Fusion Network for Bridge Crack Evolution Prediction"
+authors:
+  - family-names: Dong
+    given-names: Zhigang
+date-released: 2026-07-03
+version: "0.1.0-proof-stage"
+license: MIT
+repository-code: "https://github.com/USERNAME/phymfn-bridge-crack-prediction"
+abstract: "Reference implementation and de-identified data package for a physics-informed multimodal fusion network for early-stage crack evolution prediction in long-span concrete bridges."
+
